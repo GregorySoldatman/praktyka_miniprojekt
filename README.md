@@ -1,1 +1,2 @@
 # praktyka_miniprojekt
+# zmiana
